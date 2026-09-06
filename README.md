@@ -155,7 +155,7 @@ Several **custom DAX measures** were created for dynamic calculations:
 - **City slicer**
 - **Restaurant slicer**
 - **Cuisine slicer**
-- Dynamic cross-filtering between visuals
+- Dynamic cross-filtering between visual
 
 ---
 

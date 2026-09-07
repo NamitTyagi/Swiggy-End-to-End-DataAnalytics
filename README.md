@@ -92,7 +92,7 @@ The dataset includes approximately **10,000+ rows** and contains the following c
 - Item Count
 - Total Amount
 - Delivery Time
-- Rating
+- Ratings
 
 ---
 

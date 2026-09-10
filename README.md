@@ -9,7 +9,7 @@ Swiggy operates in a highly competitive and fast-paced food delivery market wher
 
 Revenue Volatility: Frequent and unpredictable fluctuations in monthly revenue make long-term financial planning and scaling difficult.
 
-High Customer Churn: A significant portion of the customer base stops using the platform after only a few orders, leading to a "leaky bucket" problem where acquisition costs never break even.
+High Customer Churn: A significant portion of the customer base stops using the platform after only a few orders, leading to a "leaky bucket" problem where acquisition costs never break even
 
 Heavy Revenue Dependency: The business relies disproportionately on a small segment of high-value customers, creating a high risk if these "power users" leave the platform.
 
